@@ -2,7 +2,7 @@ var data = {
       //云开发环境id
       env: 'zf-shcud',
       //分享配置
-      share_title: '重庆大学二手书',
+      share_title: '浙江大学二手书',
       share_img: '/images/poster.jpg', //可以是网络地址，本地文件路径要填绝对位置
       share_poster:'https://mmbiz.qpic.cn/mmbiz_jpg/nJPznPUZbhpA064Cl78xxvzBYTDa6O1Kl7RY1K6TerBaXcUf5AoN6x7s8q7xHgeu0Cl5qarPzE6ibbQZasWRErg/640',//必须为网络地址
       //客服联系方式
@@ -17,20 +17,32 @@ var data = {
       bgurl: '/images/startBg.jpg',
       //校区
       campus: [{
-                  name: '重大A区',
+                  name: '紫金港'',
                   id: 0
             },
             {
-                  name: '重大B区',
+                  name: '玉泉',
                   id: 1
             },
             {
-                  name: '重大C区',
+                  name: '西溪',
                   id: 2
             },
             {
-                  name: '虎溪校区',
+                  name: '华家池',
                   id: 3
+            },
+            {
+                  name: '之江',
+                  id: 4
+            },
+            {
+                  name: '舟山',
+                  id: 5
+            },
+            {
+                  name: '海宁',
+                  id: 6
             },
       ],
       //配置学院，建议不要添加太多，不然前端不好看
@@ -51,7 +63,7 @@ var data = {
                   id: 2
             },
             {
-                  name: '新闻',
+                  name: '新传',
                   id: 3
             },
             {
@@ -79,7 +91,7 @@ var data = {
                   id: 9
             },
             {
-                  name: '动力',
+                  name: '能源',
                   id: 10
             },
             {
@@ -87,7 +99,7 @@ var data = {
                   id: 11
             },
             {
-                  name: '材料',
+                  name: '人文',
                   id: 12
             },
             {

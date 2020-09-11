@@ -3,11 +3,11 @@ let config = {
       host: 'smtp.qq.com', //网易163邮箱 smtp.163.com，QQ邮箱就别动
       port: 465, //网易邮箱端口 25，QQ邮箱就别动
       auth: {
-            user: 'xxxxxxxx@qq.com', //邮箱账号
+            user: '2605159470@qq.com', //邮箱账号
             pass: 'xxxxxxxxxx' //邮箱的授权码
       }
 };
-const xcxname = '重庆大学二手书'; //你的小程序名称
+const xcxname = '浙江大学二手书'; //你的小程序名称
 
 /*
 下

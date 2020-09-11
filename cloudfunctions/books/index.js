@@ -1,5 +1,5 @@
 //此处填写在极速书籍那边申请的接口密钥
-const appkey = 'xxxxxxxxxxxxx'; 
+const appkey = '1cb0f7e1dc0a9f3e'; 
 
 /*
 下
