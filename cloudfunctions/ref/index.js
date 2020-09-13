@@ -4,9 +4,9 @@ const config = {
       mchid: '1111111111', //商户号
       partnerKey: '1111111111111111111111', //此处填服务商密钥
       pfx: '', //证书初始化
-      fileID: 'cloud://zf-shcud.11111111111111111/apiclient_cert.p12' //证书云存储id
+      fileID: 'cloud://zf-shcud.11111111111111111/apiclient_cert.p12' ,//证书云存储id
       actionName:'重庆大学二手书小程序提现',
-      rate:1 //提现收取利率，1指的是每笔收取1%
+      rate:0 //提现收取利率，1指的是每笔收取1%
 };
 
 /*
