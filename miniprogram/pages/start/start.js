@@ -8,7 +8,7 @@ Page({
        * 页面的初始数据
        */
       data: {
-            count: 3,
+            count: 0,
       },
       onLoad(){
             this.getimg();
@@ -22,7 +22,7 @@ Page({
       },
       countDown: function() {
             let that = this;
-             let total = 3;
+             let total = 0;
             this.interval = setInterval(function() {
                   total > 0 && (total--, that.setData({
                         count: total

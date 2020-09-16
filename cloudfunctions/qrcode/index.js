@@ -1,8 +1,8 @@
 // 云函数入口文件
 const cloud = require('wx-server-sdk')
-const appid = 'wxxxxxxxxxxxxxx'; //你的小程序appid
-const secret = 'xxxxxxxxxxxxxxxxxxxxxx'; //你的小程序secret
-const envName = 'zf-shcud'; // 小程序云开发环境ID
+const appid = 'wxa6755c055bbaef4e'; //你的小程序appid
+const secret = 'ac2690ab7cd681987dd7a03a2a4a32bb'; //你的小程序secret
+const envName = 'liunick2000-m1liu'; // 小程序云开发环境ID
 cloud.init({
       env: envName
 })

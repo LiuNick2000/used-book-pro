@@ -1,8 +1,8 @@
 var data = {
       //云开发环境id
-      env: 'zf-shcud',
+      env: 'liunick2000-m1liu',
       //分享配置
-      share_title: '浙江大学二手书',
+      share_title: 'ZJU二手书',
       share_img: '/images/poster.jpg', //可以是网络地址，本地文件路径要填绝对位置
       share_poster:'https://mmbiz.qpic.cn/mmbiz_jpg/nJPznPUZbhpA064Cl78xxvzBYTDa6O1Kl7RY1K6TerBaXcUf5AoN6x7s8q7xHgeu0Cl5qarPzE6ibbQZasWRErg/640',//必须为网络地址
       //客服联系方式
@@ -17,7 +17,7 @@ var data = {
       bgurl: '/images/startBg.jpg',
       //校区
       campus: [{
-                  name: '紫金港'',
+                  name: '紫金港',
                   id: 0
             },
             {
